@@ -9,7 +9,7 @@ async def on_ready():  #Define os status do bot como onlie, o bot não funciona 
    
 @client.command() #define comandos.
 async def oi(ctx):
-   await ctx.send(f"Olá {ctx.author.mention}")
+   await ctx.send(f"Olá {ctx.author.mention}") #Se trocar para "await ctx.reply" a mensagem enviada ira como resposta.
    
    
 client.run("{seu token}") #insira o token do seu bot.
