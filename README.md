@@ -1,2 +1,2 @@
 # Start-python
-Aqui esta o código para quem iniciar a programação em python. Não vou por meu código privado publico😜
+Codigo para quem quer iniciar a fazer bots do discord! (meu foco principal)
